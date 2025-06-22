@@ -7,37 +7,31 @@ const statistics = [
     icon: Leaf,
     number: "52",
     label: "Young plant varieties",
-    color: "text-red-600",
   },
   {
     icon: Building,
     number: "3",
     label: "Growing facilities",
-    color: "text-red-600",
   },
   {
     icon: Globe,
     number: "12",
     label: "Countries where we are present",
-    color: "text-red-600",
   },
   {
     icon: Award,
     number: "85",
     label: "Different varieties",
-    color: "text-red-600",
   },
   {
     icon: Users,
     number: "45",
     label: "Employees",
-    color: "text-red-600",
   },
   {
     icon: Handshake,
     number: "28",
     label: "Supporting growers",
-    color: "text-red-600",
   },
 ]
 
