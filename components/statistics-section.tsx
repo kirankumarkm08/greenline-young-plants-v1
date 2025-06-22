@@ -45,9 +45,9 @@ export default function StatisticsSection() {
             return (
               <div key={index} className="text-center">
                 <div className="flex justify-center mb-4">
-                  <IconComponent className={`h-12 w-12 ${stat.color}`} />
+                  <IconComponent className={`h-12 w-12 `} />
                 </div>
-                <div className={`text-4xl font-bold mb-2 ${stat.color}`}>{stat.number}</div>
+                <div className={`text-4xl font-bold mb-2 `}>{stat.number}</div>
                 <div className="text-gray-600 text-sm font-medium leading-tight px-2">{stat.label}</div>
               </div>
             )
